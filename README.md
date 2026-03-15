@@ -58,13 +58,6 @@
 ```java
 public class NguyenChiVi {
 
-    String[] currentlyLearning = {
-        "Spring Security & JWT",
-        "Docker & Containerization",
-        "RESTful API Design",
-        "Database Optimization"
-    };
-
     String[] techStack = {
         "Java", "Spring Boot", "Hibernate/JPA",
         "MySQL", "PostgreSQL", "Redis", "RabbitMQ",
