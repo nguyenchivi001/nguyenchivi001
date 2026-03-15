@@ -2,7 +2,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/nguyenchivi001">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+nguyenchivi001+%F0%9F%91%8B;Backend+Developer+in+progress+%F0%9F%9A%80;Java+%7C+Spring+Boot+enthusiast+%E2%98%95;Always+learning%2C+always+building+%F0%9F%93%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Nguyễn Chí Vĩ+%F0%9F%91%8B;Backend+Developer+in+progress+%F0%9F%9A%80;Java+%7C+Spring+Boot+enthusiast+%E2%98%95;Always+learning%2C+always+building+%F0%9F%93%96" alt="Typing SVG" />
 </a>
 
 </div>
